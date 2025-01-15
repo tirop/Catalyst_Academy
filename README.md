@@ -11,9 +11,9 @@ This project aims to analyze 2023 sales and customer performance data to identif
 
 ## Data Sources
 
-- **Interactive Tableau Dashboard**: [Download here](#)
-- **SQL Queries**: The SQL queries utilized to clean, organize, and prepare data for analysis and visualization can be found [here](#).
-- **Original Dataset**: Includes `customers`, `locations`, `orders`, and `products` (raw data) on [GitHub](#).
+- **Interactive Tableau Dashboard**: [Download here](https://public.tableau.com/app/profile/joshua.kendagor/viz/CatalystAcademySalesDashboard/CustomerDashboard)
+- **SQL Queries**: The SQL queries utilized to clean, organize, and prepare data for analysis and visualization can be found [here](https://github.com/tirop/Catalyst_Academy/blob/main/SQL%20Cleaning.pdf).
+- **Original Dataset**: Includes [customers](https://github.com/tirop/Catalyst_Academy/blob/main/ca_customers.csv), [locations](https://github.com/tirop/Catalyst_Academy/blob/main/ca_locations.csv), [orders](https://github.com/tirop/Catalyst_Academy/blob/main/ca_orders.csv), and [products](https://github.com/tirop/Catalyst_Academy/blob/main/ca_products.csv) 
 
 ---
 
@@ -37,8 +37,6 @@ Preprocessing was applied to ensure data quality and usability:
 3. **Standardization**: Fields like dates, strings, and numeric formats were unified for consistency.
 4. **Referential Integrity**: Validated cross-table relationships to remove orphaned records.
 
-These steps reduced inconsistencies by **98%**, ensuring the dataset was reliable for analysis and visualization.
-
 ---
 
 ## Analysis Tools and Deliverables
@@ -61,7 +59,9 @@ The insights derived from this analysis provide actionable strategies to:
 
 ## Interactive Dashboard Preview
 
-The dataset was visualized in Tableau ([View here](#)), revealing trends in churn and retention by tenure, geography, and gender.
+The dataset was visualized in Tableau ([View here]([#](https://public.tableau.com/app/profile/joshua.kendagor/viz/CatalystAcademySalesDashboard/CustomerDashboard))), revealing trends in churn and retention by tenure, geography, and gender.
+![Screenshot 2025-01-14 130451](https://github.com/user-attachments/assets/0f495a04-81a9-466f-853a-ab2d4f21aafc)
+![Screenshot 2025-01-14 130516](https://github.com/user-attachments/assets/9e15b37d-8824-4dd0-8238-f2171101a9af)
 
 ---
 
