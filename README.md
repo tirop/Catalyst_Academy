@@ -67,22 +67,10 @@ The dataset was visualized in Tableau ([View here]([#](https://public.tableau.co
 
 # Executive Summary
 
-Catalyst Academy’s 2023 Sales and Customer Insights Report identified key opportunities for increasing growth and enhancing customer engagement in the edtech space. The analysis used cleaned and validated data from **5,368 records** across `customers`, `orders`, `locations`, and `products`. This provided actionable insights on sales performance and customer behavior.
-
-### Key Findings
-
-- **Sales Growth**: Total sales reached **$732K**, a **20.4% year-over-year increase**, with profits rising by **13.8%** to **$93K**. The strongest growth occurred in Q4, led by subcategories like tablets and virtual labs.
-- **Customer Engagement**: The total customer base grew by **8.7%** to **689**, with sales per customer increasing by **10.8%** to **$1,062**. **74%** of customers placed between 1–3 orders, while a highly engaged segment placed 4+ orders.
-- **Profit Trends**: Weekly profits averaged **$2K**, with occasional negative weeks suggesting opportunities for operational or pricing optimizations.
-
-### Key Recommendations
-
-1. **Focus on High-Growth Subcategories**: Increase investments in tablets and virtual labs and address declines in coding platforms and LMS products through targeted marketing and product realignment.
-2. **Enhance Mid-Tier Customer Engagement**: Introduce loyalty programs and incentives to encourage repeat purchases among mid-tier customers to increase overall profitability.
-3. **Optimize Weekly Profitability**: Investigate and address factors that drive negative profit weeks to maintain consistent financial performance.
-4. **Leverage High-Value Customers**: Develop personalized retention strategies for the top 10% of customers, who account for a significant share of overall profits.
-
-By implementing these strategies, Catalyst Academy can strengthen its market position, maximize customer lifetime value, and drive sustained growth in the competitive edtech sector.
+Catalyst Academy grew sales to $732K in 2023, up 20.4% YoY, with profit increasing by 13.8%.
+Sales were driven by strong growth in tablets, virtual labs, and projectors, while LMS and coding platforms declined, indicating product misalignment.
+74% of customers placed only 1–3 orders, showing an opportunity to boost retention through targeted loyalty strategies.
+I recommended increased investment in high-growth subcategories and retention campaigns for mid-tier customers to drive repeat purchases and long-term profitability.
 
 ---
 
