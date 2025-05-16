@@ -68,7 +68,7 @@ The dataset was visualized in Tableau ([View here]([#](https://public.tableau.co
 # Executive Summary
 
 Catalyst Academy grew sales to $732K in 2023, up 20.4% YoY, with profit increasing by 13.8%.
-Sales were driven by strong growth in tablets, virtual labs, and projectors, while LMS and coding platforms declined, indicating product misalignment.
+Sales were driven by strong growth in tablets, virtual labs, and timers, while LMS and coding platforms declined, indicating product misalignment.
 74% of customers placed only 1–3 orders, showing an opportunity to boost retention through targeted loyalty strategies.
 I recommended increased investment in high-growth subcategories and retention campaigns for mid-tier customers to drive repeat purchases and long-term profitability.
 
