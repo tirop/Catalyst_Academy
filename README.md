@@ -1,6 +1,6 @@
 # Catalyst Academy Overview
 
-Catalyst Academy, an American edtech innovator founded in 2020, is dedicated to transforming education through cutting-edge technology and evidence-based pedagogy. Catalyst Academy provides personalized learning experiences that empower educators and learners to foster lifelong growth in a dynamic global landscape.
+Catalyst Academy, a (fictional) American edtech innovator founded in 2000, is dedicated to transforming education through cutting-edge technology and evidence-based pedagogy. Catalyst Academy provides personalized learning experiences that empower educators and learners to foster lifelong growth in a dynamic global landscape.
 
 ## Objective
 
@@ -68,7 +68,7 @@ The dataset was visualized in Tableau ([View here]([#](https://public.tableau.co
 # Executive Summary
 
 Catalyst Academy grew sales to $732K in 2023, up 20.4% YoY, with profit increasing by 13.8%.
-Sales were driven by strong growth in tablets, virtual labs, and timers, while LMS and coding platforms declined, indicating product misalignment.
+Sales were driven by strong growth in tablets, virtual labs, and timers. LMS and coding platforms, on the other hand, declined. This indicates product misalignment.
 74% of customers placed only 1–3 orders, showing an opportunity to boost retention through targeted loyalty strategies.
 I recommended increased investment in high-growth subcategories and retention campaigns for mid-tier customers to drive repeat purchases and long-term profitability.
 
@@ -96,9 +96,9 @@ I recommended increased investment in high-growth subcategories and retention ca
 ### 4. Subcategory Performance
 
 - **Top-Performing Subcategories**:
-  - Tablets and virtual labs exhibited strong growth and high profitability, representing key investment opportunities.
+  - Tablets, timers, and virtual labs showed strong growth and high profitability. These products represent key investment opportunities.
 - **Underperforming Subcategories**:
-  - Products like coding platforms and attendance trackers experienced negative growth, highlighting a need for targeted marketing, product improvements, or repositioning efforts.
+  - Products like coding platforms and learning management systems experienced negative growth. This highlights a need for targeted marketing, product improvements, or repositioning efforts.
 
 ---
 
@@ -106,7 +106,7 @@ I recommended increased investment in high-growth subcategories and retention ca
 
 - **Enhance Subcategory Strategies**:
   - Capitalize on high-growth subcategories by increasing investment in tablets, virtual labs, and related products.
-  - Address underperforming categories like coding platforms through market research and tailored campaigns.
+  - Address underperforming categories like coding platforms through market research and tailored campaigns. 
 - **Target Mid-Tier Customers**:
   - Design loyalty programs to encourage repeat purchases, especially from customers with moderate engagement.
   - Analyze order patterns to identify cross-sell or upsell opportunities.
